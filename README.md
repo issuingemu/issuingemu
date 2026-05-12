@@ -7,15 +7,14 @@ Spezialisiert auf die Automatisierung und Absicherung von IT-Infrastrukturen dur
 
 ## 🛠 Technische Schwerpunkte
 
-- **Infrastructure-as-Code:** Automatisierte Provisionierung und Konfigurationsmanagement mit **Ansible** und **Terraform**.
-- **Virtualisierung:** Orchestrierung von Enterprise-Workloads auf **Proxmox VE** sowie Container-Management mit **Docker**.
-- **System-Härtung:** Administration und Optimierung von Linux-Distributionen unter Sicherheitsaspekten.
-- **Networking:** Implementierung sicherer Zugriffslösungen und Netzwerksegmentierung (z.B. Cloudflare Tunnel, Firewall-Policies).
+- **Betriebssysteme:** Tägliche Nutzung von Linux, insbesondere Arch und Ubuntu, um persönliche Standards zu Privatsphäre und Systemkontrolle zu treffen. Auch mit Debian habe ich Erfahrung. Für vereinzelte Aufgabenbereiche nutze ich privat auch Windows.
+- **Schwerpunkte:** Privacy-by-Design, Selfhosting, Netzwerksicherheit und Prozessautomatisierung.
+- **Soft-Skills:** Intrinsische Motivation, autodidaktisches Lernen, lösungsorientiertes Denken.
 
 ## 📂 Repositories
 
-### [infrastructure-automation](https://github.com/issuingemu/infrastructure-automation)
-Zentrale Verwaltung einer virtualisierten Umgebung. Beinhaltet deklarative Konfigurationen für Proxmox-Ressourcen und automatisierte Patch-Management-Workflows.
+### [Home-Lab und Infrastructure](https://github.com/issuingemu/Homelab)
+Vorstellung meines privaten Servers und meiner Herangehensweise beim Selfhosting.
 
 ### [workstation-configuration](https://github.com/issuingemu/workstation-configuration)
 Versionierte Systemkonfigurationen zur Gewährleistung einer reproduzierbaren und effizienten Entwicklungsumgebung.
