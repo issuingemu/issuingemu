@@ -1,5 +1,5 @@
 # Pascal Winkler
-**Fachinformatiker für Systemintegration**
+**Angehender Fachinformatiker für Systemintegration**
 
 Spezialisiert auf die Automatisierung und Absicherung von IT-Infrastrukturen durch moderne Infrastructure-as-Code (IaC) Ansätze. Ich fokussiere mich auf die Bereitstellung konsistenter Umgebungen und die Implementierung robuster Sicherheitsstandards.
 
