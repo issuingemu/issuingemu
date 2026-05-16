@@ -16,16 +16,8 @@ Spezialisiert auf die Automatisierung und Absicherung von IT-Infrastrukturen dur
 ### [Home-Lab und Infrastructure](https://github.com/issuingemu/Homelab)
 Vorstellung meines privaten Servers und meiner Herangehensweise beim Selfhosting.
 
-### [workstation-configuration](https://github.com/issuingemu/workstation-configuration)
-Versionierte Systemkonfigurationen zur Gewährleistung einer reproduzierbaren und effizienten Entwicklungsumgebung.
+### [Inventory-Automation](https://github.com/issuingemu/Inventory-Automation)
+Repository einer Python-Anwendung, die ich erstellt habe, um Kassendaten auszulesen und automatisiert Listen für Bestellungen und Lagerverschiebungen zwischen Filialen zu erstellen.
 
-### [network-security-concepts](https://github.com/issuingemu/network-security-concepts)
-Dokumentation und Konfiguration von Sicherheits-Gateways und verschlüsselten Netzwerk-Tunneln.
-
----
-
-## 🚀 Qualitätsstandards & Workflow
-Ich verfolge einen methodischen Ansatz in der Versionskontrolle:
-- **Atomare Commits:** Jede Änderung wird als einzelne, logische Einheit versioniert, um die Reversibilität und Auditierbarkeit zu maximieren.
-- **Sicherheits-Integration:** Einsatz von automatisierten **Pre-Commit-Hooks** (z.B. Gitleaks) zur Identifikation und Vermeidung sensitiver Daten in Quellcodes.
-- **Lineare Historie:** Bevorzugung von Trunk-Based Development Modellen für maximale Übersichtlichkeit und Stabilität.
+### [Home-Automation & IoT](https://github.com/issuingemu/Home-Automation-IoT)
+Dokumentation meines Smart-Homes, inklusive DIY-Integrationsprojekte.
