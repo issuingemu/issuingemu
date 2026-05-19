@@ -16,7 +16,7 @@ Spezialisiert auf die Automatisierung und Absicherung von IT-Infrastrukturen dur
 ### [Home-Lab und Infrastructure](https://github.com/issuingemu/Homelab)
 Vorstellung meines privaten Servers und meiner Herangehensweise beim Selfhosting.
 
-### [Inventory-Automation](https://github.com/issuingemu/Inventory-Automation)
+### [Inventory-Automation](https://github.com/issuingemu/[Inventory-Automation](https://github.com/issuingemu/Flour-Bestandsoptimierung))
 Repository einer Python-Anwendung, die ich erstellt habe, um Kassendaten auszulesen und automatisiert Listen für Bestellungen und Lagerverschiebungen zwischen Filialen zu erstellen.
 
 ### [Home-Automation & IoT](https://github.com/issuingemu/Home-Automation-IoT)
